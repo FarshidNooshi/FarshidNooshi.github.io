@@ -22,27 +22,6 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
 
 ## Blockquotes
 
@@ -56,9 +35,9 @@ Single line blockquote:
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [temp 1](#)    | 2016   | Description of the item in the list                          |
+| [temp 2](#)    | 2019   | Description of the item in the list                          |
+| [temp 3](#)    | 2022   | Description of the item in the list                          |
 
 ### Table 2
 
@@ -84,37 +63,7 @@ Startup
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+:   tttt [explain](https://www.google.com "We'll Do It Live") this one.
 
 ## Buttons
 

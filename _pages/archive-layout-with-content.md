@@ -4,8 +4,6 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 
-A variety of common markup showing how the theme styles them.
-
 # Header one
 
 ## Header two
@@ -28,9 +26,9 @@ Single line blockquote:
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [temp 1](#)    | 2016   | Description of the item in the list                          |
+| [temp 2](#)    | 2019   | Description of the item in the list                          |
+| [temp 3](#)    | 2022   | Description of the item in the list                          |
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -54,7 +52,7 @@ Startup
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+:   tttt [explain](https://www.google.com "We'll Do It Live") this one.
 
 ## Unordered Lists (Nested)
 
